@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="deonica" targetId="4877df2c865a45dbb0edd28bf8f547a2" version="14.0" toolVersion="v7.0.6" bbox="-0.026376 -0.000104 -0.016264 0.021174 0.212160 0.031907" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="deonica" assemblyId="8bf2f239f24343bd917b5bbc4c435df7">
+        <Part name="deonica" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="orbit" targetId="27e68e4c41154ea08c086e0212bf848f" version="14.0" toolVersion="v7.0.6" bbox="0.005589 -0.000052 -0.024216 0.035586 0.106287 -0.001329" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="orbit" assemblyId="a45c88c108934940850aff9a1790ffc6">
+        <Part name="orbit" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>

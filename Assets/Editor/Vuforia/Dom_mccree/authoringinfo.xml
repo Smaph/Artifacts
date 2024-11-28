@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="26092024" targetId="8eeb6de61d5042b7a471adf3f7530bb0" bbox="-0.079853 -0.000146 -0.068119 0.074819 0.299403 0.080559" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="dom" targetId="b54e16337dbb490191db604cebff4784" bbox="-0.093816 -0.000113 -0.081353 0.093651 0.231843 0.080643" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="26092024" assemblyId="f5a0dda547e8432f80f9fb6c4c058f45">
+        <Part name="26092024" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="dom" assemblyId="837f53219da04ad685516e2e2c4e4281">
+        <Part name="dom" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="61806dbdb4c74039a642f69b0294c75a" name="Dom_mccree" toolVersion="v7.0.6" version="36.0" />
+</QCARInfo>

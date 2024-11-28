@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.0.6">
+        <ModelTarget name="orbit" targetId="bc43a066896d4887bd8eb59397d1bb16" bbox="0.005589 -0.000052 -0.024216 0.035586 0.106287 -0.001329" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+        <ModelTarget name="26092024" targetId="c760c50088fb4e14966022dfd42074d9" bbox="-0.079853 -0.000146 -0.068119 0.074819 0.299403 0.080559" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="low_feature_objects" realisticTextures="yes" />
+        <ModelTarget name="deonica" targetId="209830671bea4429af420c64201e2339" bbox="-0.026376 -0.000104 -0.016264 0.021174 0.212160 0.031907" version="14.0" toolVersion="v7.0.6" trackingMode="scan" upVector="0.0 1.0 0.0" optimizeTrackingFor="default" realisticTextures="yes" />
+    </TargetSet>
+    <Assembly name="orbit" assemblyId="64224ae1bdba46a899a6c646971f0bbc">
+        <Part name="orbit" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="26092024" assemblyId="7b8937c008494748b00b3951cc90a685">
+        <Part name="26092024" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="deonica" assemblyId="c9214dd6aad74cd8b263e384944eb3ed">
+        <Part name="deonica" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="4ac8a96b1f3a4d0aac0ce866a116b08b" name="models" toolVersion="v7.0.6" version="36.0" />
+</QCARInfo>
