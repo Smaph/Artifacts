@@ -2,15 +2,9 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/*DoNotShip*/
-/[Pp]ackages/
 /[Tt]emp/
-/[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -35,7 +29,6 @@
 ExportedObj/
 .consulo/
 *.csproj
-*.vsconfig
 *.unityproj
 *.sln
 *.suo
@@ -49,6 +42,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.tgz
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -74,3 +68,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+Library/ArtifactDB
+Artifacts.apk
