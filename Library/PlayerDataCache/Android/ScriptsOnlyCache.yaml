@@ -114,9 +114,6 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.AnimationModule
     fullTypeName: UnityEngine.Animator
     methodName: Play
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.Renderer
-    methodName: set_enabled
   - assembly: Vuforia.Unity.Engine
     fullTypeName: Vuforia.Internal.AreaTargetCaptureInfoPopup
     methodName: OnCaptureCreationError
@@ -307,71 +304,69 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16750}
+      Script: {instanceID: 16764}
     - Class: 114
-      Script: {instanceID: 16752}
+      Script: {instanceID: 16766}
     - Class: 114
-      Script: {instanceID: 16794}
+      Script: {instanceID: 16808}
     - Class: 114
-      Script: {instanceID: 16916}
+      Script: {instanceID: 16930}
     - Class: 114
-      Script: {instanceID: 17794}
+      Script: {instanceID: 17806}
     - Class: 114
-      Script: {instanceID: 17834}
+      Script: {instanceID: 17846}
     - Class: 114
-      Script: {instanceID: 18150}
+      Script: {instanceID: 18162}
     - Class: 114
-      Script: {instanceID: 18200}
+      Script: {instanceID: 18212}
     - Class: 114
-      Script: {instanceID: 18450}
+      Script: {instanceID: 18462}
     - Class: 114
-      Script: {instanceID: 18600}
+      Script: {instanceID: 18612}
     - Class: 114
-      Script: {instanceID: 18618}
+      Script: {instanceID: 18630}
     - Class: 114
-      Script: {instanceID: 19506}
+      Script: {instanceID: 19518}
     - Class: 114
-      Script: {instanceID: 19508}
+      Script: {instanceID: 19520}
     - Class: 114
-      Script: {instanceID: 19510}
+      Script: {instanceID: 19522}
     - Class: 114
-      Script: {instanceID: 19572}
+      Script: {instanceID: 19584}
     - Class: 114
-      Script: {instanceID: 19574}
-    - Class: 114
-      Script: {instanceID: 19596}
-    - Class: 114
-      Script: {instanceID: 19602}
-    - Class: 114
-      Script: {instanceID: 19604}
-    - Class: 114
-      Script: {instanceID: 19606}
+      Script: {instanceID: 19586}
     - Class: 114
       Script: {instanceID: 19608}
     - Class: 114
-      Script: {instanceID: 19630}
+      Script: {instanceID: 19614}
     - Class: 114
-      Script: {instanceID: 19632}
+      Script: {instanceID: 19616}
     - Class: 114
-      Script: {instanceID: 19638}
+      Script: {instanceID: 19618}
     - Class: 114
-      Script: {instanceID: 20426}
+      Script: {instanceID: 19620}
     - Class: 114
-      Script: {instanceID: 20472}
+      Script: {instanceID: 19642}
     - Class: 114
-      Script: {instanceID: 20782}
+      Script: {instanceID: 19644}
     - Class: 114
-      Script: {instanceID: 21620}
+      Script: {instanceID: 19650}
     - Class: 114
-      Script: {instanceID: 21630}
+      Script: {instanceID: 20438}
     - Class: 114
-      Script: {instanceID: 22036}
+      Script: {instanceID: 20484}
     - Class: 114
-      Script: {instanceID: 22486}
+      Script: {instanceID: 20794}
     - Class: 114
-      Script: {instanceID: 24126}
+      Script: {instanceID: 21632}
     - Class: 114
-      Script: {instanceID: 24136}
+      Script: {instanceID: 21642}
+    - Class: 114
+      Script: {instanceID: 22048}
+    - Class: 114
+      Script: {instanceID: 22498}
+    - Class: 114
+      Script: {instanceID: 24122}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128

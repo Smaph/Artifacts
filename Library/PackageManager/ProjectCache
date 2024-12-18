@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638697771613014210
+      ticks: 638701406819423322
     m_Hash: 729864504
   m_LockFileStatus:
     m_FilePath: C:/Users/Danya/Artifacts/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638697771700634380
+      ticks: 638701406884546196
     m_Hash: 3338017581
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -3200,9 +3200,11 @@ m_ResolvedPackages:
     - 1.1.0
     - 1.1.1
     - 1.2.2
+    - 1.2.3
     compatible:
     - 1.2.2
-    recommended: 1.2.2
+    - 1.2.3
+    recommended: 1.2.3
     deprecated: []
   dependencies: []
   resolvedDependencies: []
